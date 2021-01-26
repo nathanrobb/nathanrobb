@@ -1,5 +1,3 @@
-![Metrics](https://metrics.lecoq.io/nathanrobb?template=classic&config.timezone=Pacific%2FAuckland)
+<h1 align='center'> Hi! :wave:</h1>
 
-<!--
-  Metrics from https://github.com/lowlighter/metrics
--->
+<h2 align='center'><i>Stay groovy!</i></h2>
