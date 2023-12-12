@@ -1,1 +1,1 @@
-<p align='center'><i>stay grooovy</i></p>
+<p align='center'>✨<i>stay grooovy</i>✨</p>
